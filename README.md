@@ -2,7 +2,7 @@
 
 ## NextJS Hulu Website Clone 
 
-#Link https://next-hulu-clone-jade.vercel.app/
+# Link https://next-hulu-clone-jade.vercel.app/
 First, run the development server:
 
 ```bash
