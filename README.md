@@ -2,6 +2,10 @@
 
 # NextJS Hulu Website Clone 
 
+Technologies:
+- NextJS
+- Tailwind CSS
+- TheMovieDB public API https://www.themoviedb.org/settings/api
 ### Deployment link: https://next-hulu-clone-jade.vercel.app/
 First, run the development server:
 
