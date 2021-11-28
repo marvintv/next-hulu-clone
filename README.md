@@ -1,6 +1,6 @@
 🍿🎬🎞
 
-## Hulu Clone 
+## NextJS Hulu Website Clone 
 
 First, run the development server:
 
