@@ -5,7 +5,12 @@
 Technologies:
 - NextJS
 - Tailwind CSS / HeroIcons
-- TheMovieDB public API https://www.themoviedb.org/settings/api
+- TheMovieDB public API https://www.themoviedb.org/settings/
+
+Some key components: 
+- scroll bar hide  component for horizontal nav bar  https://www.npmjs.com/package/tailwind-scrollbar-hide
+
+
 ### Deployment link: https://next-hulu-clone-jade.vercel.app/
 First, run the development server:
 
@@ -26,4 +31,4 @@ Asyncronous server-side call made on the API before rendering the page for the u
 <img src="https://i.imgur.com/E10BJRD.png"></img>
 
 ### Mobile version Preview 
-<img src="https://i.imgur.com/DX0aMQJ.png" width="450px"></img>
+<img src="https://i.imgur.com/tm0X08R.gif" width="450px"></img>
