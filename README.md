@@ -20,5 +20,5 @@ Asyncronous server-side call made on the API before rendering the page for the u
 ### Preview of Website (Desktop version): 
 <img src="https://i.imgur.com/E10BJRD.png"></img>
 
-### (Mobile version) 
+### Mobile version Preview 
 <img src="https://i.imgur.com/DX0aMQJ.png" width="450px"></img>
