@@ -21,4 +21,4 @@ Asyncronous server-side call made on the API before rendering the page for the u
 <img src="https://i.imgur.com/E10BJRD.png"></img>
 
 ### (Mobile version) 
-<img src="https://i.imgur.com/DX0aMQJ.png" width="200px"></img>
+<img src="https://i.imgur.com/DX0aMQJ.png" width="450px"></img>
