@@ -28,7 +28,7 @@ Here are the where the requests are stored on the project files.
 Asyncronous server-side call made on the API before rendering the page for the user.
 
 ### Preview of Website (Desktop version): 
-<img src="https://i.imgur.com/Mp7WbJ2.mp4"></img>
+<img src="https://i.imgur.com/E10BJRD.png"></img>
 
 ### Mobile version Preview 
 <img src="https://i.imgur.com/tm0X08R.gif" width="450px"></img>
