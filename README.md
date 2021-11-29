@@ -16,3 +16,6 @@ yarn dev
 ```
 
 Asyncronous server-side call made on the API before rendering the page for the user.
+
+### Preview of Website: 
+<img src="https://i.imgur.com/E10BJRD.png"></img>
