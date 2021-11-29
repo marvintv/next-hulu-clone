@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import Image from "next/image"
-import { ThumbUpIcon, ArrowCircleUpIcon } from "@heroicons/react/outline";
+import { ThumbUpIcon, ArrowCircleUpIcon, CalendarIcon } from "@heroicons/react/outline";
 import { forwardRef } from "react";
 // eslint-disable-next-line react/display-name
 const Thumbnail = forwardRef(({result}, ref) => {
@@ -30,6 +30,7 @@ const Thumbnail = forwardRef(({result}, ref) => {
                 </h2>
                 
                 <p  className="flex items-center opacity-0 group-hover:opacity-100">
+                    <CalendarIcon className='h-5 mx-2 text-white z-10' />
                     {result.release_date || result.first_air_date} {' '}
 
                     <ThumbUpIcon className='h-5 mx-2 text-white z-10' /> {result.vote_count}
