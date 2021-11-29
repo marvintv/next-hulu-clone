@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🍿🎬🎞
 
-## Getting Started
+# NextJS Hulu Website Clone 
 
+Technologies:
+- NextJS
+- Tailwind CSS / HeroIcons
+- TheMovieDB public API https://www.themoviedb.org/settings/
+
+Some key components: 
+- scroll bar hide  component for horizontal nav bar  https://www.npmjs.com/package/tailwind-scrollbar-hide
+
+
+### Deployment link: https://next-hulu-clone-jade.vercel.app/
 First, run the development server:
 
 ```bash
+npm install or yarn
 npm run dev
 # or
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Here are the where the requests are stored on the project files.
+```
+./utils/results.js
+```
+Asyncronous server-side call made on the API before rendering the page for the user.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Preview of Website (Desktop version): 
+<img src="https://i.imgur.com/E10BJRD.png"></img>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Mobile version Preview 
+<img src="https://i.imgur.com/tm0X08R.gif" width="450px"></img>
