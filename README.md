@@ -14,7 +14,9 @@ npm run dev
 # or
 yarn dev
 ```
-
+```
+./utils/results.js
+```
 Asyncronous server-side call made on the API before rendering the page for the user.
 
 ### Preview of Website (Desktop version): 
