@@ -4,16 +4,19 @@
 
 Technologies:
 - NextJS
-- Tailwind CSS
+- Tailwind CSS / HeroIcons
 - TheMovieDB public API https://www.themoviedb.org/settings/api
 ### Deployment link: https://next-hulu-clone-jade.vercel.app/
 First, run the development server:
 
 ```bash
+npm install or yarn
 npm run dev
 # or
 yarn dev
 ```
+
+Here are the where the requests are stored on the project files.
 ```
 ./utils/results.js
 ```
