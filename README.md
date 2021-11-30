@@ -6,7 +6,7 @@
 Technologies:
 - NextJS
 - Tailwind CSS / HeroIcons
-- TheMovieDB public API https://www.themoviedb.org/settings/
+- TheMovieDB public API 
 
 Some key components: 
 - scroll bar hide  component for horizontal nav bar  https://www.npmjs.com/package/tailwind-scrollbar-hide
