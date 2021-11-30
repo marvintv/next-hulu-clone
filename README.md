@@ -1,6 +1,7 @@
 🍿🎬🎞
 
 # NextJS Hulu Website Clone 
+### Deployment link: https://next-hulu-clone-jade.vercel.app/
 
 Technologies:
 - NextJS
@@ -11,7 +12,6 @@ Some key components:
 - scroll bar hide  component for horizontal nav bar  https://www.npmjs.com/package/tailwind-scrollbar-hide
 
 
-### Deployment link: https://next-hulu-clone-jade.vercel.app/
 First, run the development server:
 
 ```bash
